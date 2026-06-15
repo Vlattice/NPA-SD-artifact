@@ -9,7 +9,7 @@ description = "Reanalysis of non-parental-allele clusters in 1000 Genomes trios 
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Verónica Zumpano Blumenfeld", email = "veronicazumpanoblumenfeld@gmail.com" }]
+authors = [{ name = "Verónica Zumpano Blumenfeld", email = "veronicazumpanoblumenfeld@gmail.com", Paper= "Reanalysis_Myakishev-Rempel" }]
 dependencies = [
     "cyvcf2>=0.30",
     "numpy>=1.23",
