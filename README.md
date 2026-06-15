@@ -116,3 +116,6 @@ URLs are in `src/npa_sd/config.py`.
 ## Citation and license
 
 See `CITATION.cff`. Released under the MIT License.
+## Manuscript
+
+[paper/manuscript.pdf](Reanalysis_Myakishev-Rempel.pdf)
