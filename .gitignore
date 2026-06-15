@@ -1,0 +1,24 @@
+# downloaded inputs and generated outputs
+data/*
+results/*
+!data/.gitkeep
+!results/.gitkeep
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/

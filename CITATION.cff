@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "NPA-SD-artifact: reanalysis of non-parental-allele clusters in 1000 Genomes trios"
+authors:
+  - given-names: Verónica
+    family-names: Zumpano Blumenfeld
+    orcid: "https://orcid.org/0009-0006-2030-1849"
+    affiliation: "Vlattice"
+
+version: 0.1.0
+date-released: 2026-06-15
+license: MIT
