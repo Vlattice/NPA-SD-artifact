@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "NPA-SD-artifact: reanalysis of non-parental-allele clusters in 1000 Genomes trios"
+Paper: Reanalysis_Myakishev-Rempel
 authors:
   - given-names: Verónica
     family-names: Zumpano Blumenfeld
